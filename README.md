@@ -43,4 +43,4 @@ Las rutas, nombres de archivos y datos han sido anonimizados para proteger la co
 -Integración con bases de datos
 
 👨‍💻 Autor:
-Mario Blanco
+Mario Blanco Abregú
